@@ -1,0 +1,35 @@
+{
+  "name": "example-component-canary",
+  "main": "src/index.js",
+  "dependencies": {
+    "@carbon/ibm-cloud-cognitive-experimental": "0.30.6-canary.3",
+    "@carbon/icons-react": "10.27.0",
+    "@carbon/layout": "10.20.0",
+    "@carbon/motion": "10.14.0",
+    "@carbon/themes": "10.29.0",
+    "@carbon/type": "10.23.0",
+    "carbon-components": "10.30.0",
+    "carbon-components-react": "7.27.0",
+    "node-sass": "4.14.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-scripts": "3.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "description": "",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
